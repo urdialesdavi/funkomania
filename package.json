@@ -7,9 +7,6 @@
     "setup": "evershop install",
     "build": "evershop build",
     "start": "evershop start",
-    "dev": "evershop dev",
-    "user:create": "evershop user:create",
-    "user:changePassword": "evershop user:changePassword"
   },
   "author": "",
   "license": "ISC",
