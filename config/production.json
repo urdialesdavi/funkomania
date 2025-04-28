@@ -16,8 +16,14 @@
       }
     },
     "system": {
-      "theme": "funkomania",
-      "extensions": [
-      ]
-    }
+    "theme": "funkomania",
+    "extensions": [
+      {
+        "name": "productComment",
+        "resolve": "node_modules/@evershop/productcomment",
+        "enabled": true,
+        "priority": 10
+      }
+    ]
   }
+}
