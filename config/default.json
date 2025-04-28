@@ -19,12 +19,7 @@
   "system": {
     "theme": "funkomania",
     "extensions": [
-      {
-        "name": "productComment",
-        "resolve": "node_modules/@evershop/productcomment",
-        "enabled": true,
-        "priority": 10
-      }
+      
     ]
   }
 }
